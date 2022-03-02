@@ -2,8 +2,8 @@
 
 A re-imagined, NFL-themed Asteroids clone in Python, using pygame  
     
-    original clone by Amin Bandali
-    reversioned & revised by Zach Muhlbauer
+    authored by Amin Bandali
+    adapted by Zach Muhlbauer
 
 ## How To Play
 
